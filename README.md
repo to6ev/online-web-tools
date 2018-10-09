@@ -5,4 +5,4 @@ Free Open src PHP Scripts
 
 Demo: http://tools.eti.pw
 
-Contact form: http://tools.eti.pw/src.php
+Download from: http://eti.bl.ee/files/tools.eti.pw.zip
