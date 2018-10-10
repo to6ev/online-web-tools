@@ -16,8 +16,8 @@ Not all PHP scripts are mine! But they are free and everybody can use it for own
 I use many free APIs for this project and you need get own KEY from websites. Just read my comments in src. 
 
 How to Install? 
-- Nothing to install! Just Copy&Paste all dirs/folders into your localhost/www or to any free webhosting via free ftp client. 
-The files are too many and upload process will be long :) Don't select all files/folders when you upload them to remote webserver! Just divide into parts all these files. Some webhosting have protection from malicious codes/scripts/files and maybe will detect some of the scripts like dangerouse, and will suspend your free account :) On paid hostings-no problems :)
+- Nothing to install! Just Copy&Paste all dirs/folders into your localhost/www or to any free webhosting via free FTP client (like bareFTP, FileZilla, cuteFTP, gFTP, net2ftp etc.)
+The files are too many and upload process will be long :) Don't select all files/folders when you upload them to remote webserver! Just divide into parts all these files. Some webhosting have protection from malicious codes/scripts/files and maybe will detect some of the scripts like dangerouse, and will suspend your free account :) On paid hostings - no problems :)
 
 Some dirs/folders need writable permission! chmod 755 or 777 :) 
 Right click with the mouse on Folders and:
