@@ -13,7 +13,7 @@ Download src from: http://tools.eti.pw/src.php
 
 Read pls ...
 
-Not all PHP scripts are mine! But they are free and everybody can use it for own non-comersial purpose. I found some php scripts from websites for source codes...
+Not all PHP scripts are mine! But they are free too.
 
 I use many free APIs for this project and you need get own KEY from websites. Just read my comments in src. 
 
