@@ -37,3 +37,5 @@ If you want to test on local webserver and how to change the versions of PHP.
 Feel free to send me email for anything:  http://tools.eti.pw/contact.php
 
 This is all :) Bye!
+
+DONATE: 33XLRUyZ92sD5SrwFxDJBEMhxqvm1v8pmr
